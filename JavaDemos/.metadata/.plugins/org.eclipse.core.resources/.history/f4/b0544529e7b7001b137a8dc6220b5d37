@@ -1,0 +1,16 @@
+package javademos;
+
+public class switchDemo {
+
+	public static void main(String[] args) {
+
+		char grade ='A';
+		
+		switch(grade) {
+			case 'A' :
+				System.out.println("Mükemmel geçtiniz");
+				break;
+		}
+	}
+
+}

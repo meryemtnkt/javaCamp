@@ -1,0 +1,26 @@
+package javademos;
+
+public class loopDemo {
+
+	public static void main(String[] args) {
+		
+		//for loop
+		for( int i=1; i<=10; i++) {
+			
+			System.out.println(i);
+			
+		}
+		System.out.println("For Döngüsü Bitti");
+		
+		
+		//while loop 
+		int a=0;
+		while(a<10) {
+			System.out.println(a);
+			a++;
+		}
+		System.out.println("While Döngüsü Bitti");
+
+	}
+
+}

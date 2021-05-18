@@ -1,0 +1,17 @@
+package javademos;
+
+public class stringsDemo {
+
+	public static void main(String[] args) {
+
+		String mesaj="Bugün hava yaðýþlý ...";		
+		System.out.println(mesaj);
+		
+		System.out.println("Eleman sayýsý :"+mesaj.length());
+		System.out.println("5. Eleman : "+ mesaj.charAt(4));
+		System.out.println(mesaj.concat("üzücü :("));
+		
+	
+	}
+
+}

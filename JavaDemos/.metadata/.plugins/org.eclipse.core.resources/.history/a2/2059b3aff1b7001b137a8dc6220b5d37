@@ -1,0 +1,23 @@
+package javademos;
+
+public class multiDimensionalArrayDemo {
+
+	public static void main(String[] args) {
+
+		String[][] sehirler = new String[3][3];
+		
+		sehirler[0][0]="istanbul";
+		sehirler[0][1]="istanbul";
+		sehirler[0][2]="istanbul";
+		
+		sehirler[1][0]="istanbul";
+		sehirler[1][1]="istanbul";
+		sehirler[1][2]="istanbul";
+		
+		sehirler[2][0]="istanbul";
+		sehirler[2][1]="istanbul";
+		sehirler[2][2]="istanbul";
+		
+	}
+
+}
