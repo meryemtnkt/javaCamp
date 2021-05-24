@@ -1,0 +1,23 @@
+package javademos;
+
+public class MiniProjeAsalsayi {
+
+	public static void main(String[] args) {
+
+		int number = 2;
+		int remainder=number %2 ;
+		boolean isPrime=true;
+		for (int i=2 ; i<number;i++) {
+			if (number % 2 == number) {
+				isPrime=false;
+			}
+		}
+		if(isPrime) { //isPrime == true
+			System.out.println("Sayý asaldýr.");
+		}
+		else {
+			System.out.println("Sayý asal deðildir.");
+		}
+	}
+
+}

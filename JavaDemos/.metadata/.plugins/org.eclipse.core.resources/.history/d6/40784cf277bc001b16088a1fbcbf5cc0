@@ -1,0 +1,16 @@
+package javademos;
+
+public class MiniProjeAsalsayi {
+
+	public static void main(String[] args) {
+
+		int number = 2;
+		int remainder=number %2 ;
+		boolean asal=false;
+		if( remainder == 0 ) {
+			asal=true;
+		}
+		System.out.println(asal);
+	}
+
+}
