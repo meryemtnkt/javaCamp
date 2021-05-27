@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename type &apos;javademos.multiDimensianalArrayDemo&apos; to &apos;multiDimensionalArrayDemo&apos;&#x0D;&#x0A;- Original project: &apos;javademos&apos;&#x0D;&#x0A;- Original element: &apos;javademos.multiDimensianalArrayDemo&apos;&#x0D;&#x0A;- Renamed element: &apos;javademos.multiDimensionalArrayDemo&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;multiDimensianalArrayDemo&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;javademos{multiDimensianalArrayDemo.java[multiDimensianalArrayDemo" matchStrategy="1" name="multiDimensionalArrayDemo" qualified="false" references="true" similarDeclarations="false" stamp="1621353128494" textual="false" version="1.0"/>
-</session>

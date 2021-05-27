@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename type &apos;javademos.MiniProjeAsalsayı&apos; to &apos;MiniProjeAsalsayi&apos;&#x0D;&#x0A;- Original project: &apos;javademos&apos;&#x0D;&#x0A;- Original element: &apos;javademos.MiniProjeAsalsayı&apos;&#x0D;&#x0A;- Renamed element: &apos;javademos.MiniProjeAsalsayi&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;MiniProjeAsalsayı&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;javademos{MiniProjeAsalsayı.java[MiniProjeAsalsayı" matchStrategy="1" name="MiniProjeAsalsayi" qualified="false" references="true" similarDeclarations="false" stamp="1621850136762" textual="false" version="1.0"/>
-</session>
