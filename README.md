@@ -10,4 +10,4 @@ Engin demirog ile birlikte java ve react kampından
 
 [Course  - intro](https://github.com/meryemtnkt/javaCamp/tree/main/oopIntro)
 
- - [Homework](https://github.com/meryemtnkt/javaCamp/tree/main/dayTwoHomeWorkOne)
+ - [Homework](https://github.com/meryemtnkt/javaCamp/tree/main/dayTwoHomeWorkOne/src/dayTwoHomeWorkOne)
