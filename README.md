@@ -1,3 +1,6 @@
-# javaCamp 
+# JavaReactCamp 
+Java + React works that Education works on [Kodlama.io](https://www.kodlama.io/) 
+
+# 
+
 Engin demirog ile birlikte java ve react kampından 
-JavaDemos içeriğinde youtube da ki java derslerindeki örneklerin çözümlerini içermektedir. Ödevler eşliğinde burada ki içerik güncellenmektedir.
