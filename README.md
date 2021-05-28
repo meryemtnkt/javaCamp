@@ -20,4 +20,8 @@ Engin demirog ile birlikte java ve react kampından
 
 **Miras - Kalıtım**
  
- [Course 3 - İnheritance](https://github.com/meryemtnkt/javaCamp/tree/main/inheritance/src/inheritance)
+ [Course 3 - İnheritance](https://github.com/meryemtnkt/javaCamp/tree/main/inheritance/src/inheritance
+ 
+ [Course 3 - İnheritance2 - @Override](https://github.com/meryemtnkt/javaCamp/tree/main/inhetritance2/src/inhetritance2)
+ 
+ - [Homework](https://github.com/meryemtnkt/javaCamp/tree/main/dayThreeHomeWork/src/dayThreeHomeWork)
