@@ -27,6 +27,9 @@ Engin demirog ile birlikte java ve react kampından
  - [Homework](https://github.com/meryemtnkt/javaCamp/tree/main/dayThreeHomeWork/src/dayThreeHomeWork)
 
 
+**Arayüzler**
+
+[Course 4 - İnterfaces](https://github.com/meryemtnkt/javaCamp/tree/main/interfaces)
 
 
 
@@ -36,13 +39,11 @@ Engin demirog ile birlikte java ve react kampından
 
 
 
-
-
-##  JAVASCRİPT
+**JAVASCRİPT**
 [Course 10 - Javascript- ES6](https://github.com/meryemtnkt/advancedJavaScript-master)
 
 
 
-## React ve Redux 
+**React ve Redux** 
 
 [Course 11 - React ](https://github.com/meryemtnkt/reactCamp)
