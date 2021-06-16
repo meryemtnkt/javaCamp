@@ -12,7 +12,7 @@ public class Main {
 	public static void main(String[] args) {
 
 
-		Customer customer = new Customer(101, "Meryem", "Tankut", LocalDate.of(1994, 2, 2), "20894357042");
+		Customer customer = new Customer(101, "Meryem", "Tankut", LocalDate.of(1994, 2, 2), "01236547890");
 		BaseCustomerManager baseCustomerManager=new StarbucksCustomerManager(new MernisServiceAdapter());
 //				new NeroCustomerManager(new MernisServiceAdapter());
 		
