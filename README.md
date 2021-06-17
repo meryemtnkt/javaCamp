@@ -49,4 +49,4 @@ Engin demirog ile birlikte java ve react kampından
 
 **React ve Redux** 
 
-[Course 11 - React ](https://github.com/meryemtnkt/reactCamp)
+[Course 11/React - Course 12/Redux](https://github.com/meryemtnkt/reactCamp)
