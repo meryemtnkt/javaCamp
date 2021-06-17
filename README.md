@@ -30,8 +30,7 @@ Engin demirog ile birlikte java ve react kampından
 **Arayüzler**
 
 [Course 4 - İnterfaces](https://github.com/meryemtnkt/javaCamp/tree/main/interfaces)
-
-
+ - [Homework-2](https://github.com/meryemtnkt/javaCamp/tree/main/day4Homework2/src)
 
 
 
