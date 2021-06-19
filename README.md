@@ -45,7 +45,7 @@ Engin demirog ile birlikte java ve react kampından
 [Course 6 - nortwind](https://github.com/meryemtnkt/javaCamp/tree/main/nortwind)
 
 [PostgreSql](https://github.com/meryemtnkt/nortwind_postgre_sql)
-
+- [Homework-2](https://github.com/meryemtnkt/HRMS-PostgreSQL)
 
 
 **JAVASCRİPT**
