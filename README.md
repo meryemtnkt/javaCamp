@@ -46,7 +46,7 @@ Engin demirog ile birlikte java ve react kampından
 
 [PostgreSql](https://github.com/meryemtnkt/nortwind_postgre_sql)
 - [Homework-2](https://github.com/meryemtnkt/HRMS-PostgreSQL)
-- [Homework-3 / HRMS ](https://github.com/meryemtnkt/javaCamp/tree/main/HRMS/HRMS)
+- [Homework-3 /jobtitle - HRMS ](https://github.com/meryemtnkt/javaCamp/tree/main/JobTitleListHRMS)
 
 
 **JAVASCRİPT**
