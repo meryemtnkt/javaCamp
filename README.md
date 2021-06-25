@@ -49,6 +49,10 @@ Engin demirog ile birlikte java ve react kampından
 - [Homework-3 /jobtitle - HRMS ](https://github.com/meryemtnkt/javaCamp/tree/main/JobTitleListHRMS)
 
 
+**Swagger and lombok**
+
+[Course 7 - nortwind](https://github.com/meryemtnkt/javaCamp/tree/main/nortwind)
+
 **JAVASCRİPT**
 
 [Course 10 - Javascript- ES6](https://github.com/meryemtnkt/advancedJavaScript-master)
