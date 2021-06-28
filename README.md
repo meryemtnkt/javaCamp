@@ -65,11 +65,11 @@ Engin demirog ile birlikte java ve react kampından
 
 [Course 10 - Javascript- ES6](https://github.com/meryemtnkt/advancedJavaScript-master)
 
-**React ** 
+**React** 
 
 [Course 11 - React](https://github.com/meryemtnkt/reactCamp)
 
-**Redux ** 
+**Redux** 
 
 [ Course 12 - Redux](https://github.com/meryemtnkt/reactCamp)
 
