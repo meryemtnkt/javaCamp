@@ -53,6 +53,10 @@ Engin demirog ile birlikte java ve react kampından
 
 [Course 7 - nortwind](https://github.com/meryemtnkt/javaCamp/tree/main/nortwind)
 
+**Derived Query Methods in Spring**
+
+[Course 8 - nortwind](https://github.com/meryemtnkt/javaCamp/tree/main/nortwind)
+
 **JAVASCRİPT**
 
 [Course 10 - Javascript- ES6](https://github.com/meryemtnkt/advancedJavaScript-master)
