@@ -53,7 +53,7 @@ Engin demirog ile birlikte java ve react kampından
 
 [Course 7 - nortwind](https://github.com/meryemtnkt/javaCamp/tree/main/nortwind)
 
-**Derived Query Methods in Spring**
+**Spring JPA/Hibernate**
 
 [Course 8 - nortwind](https://github.com/meryemtnkt/javaCamp/tree/main/nortwind)
 
