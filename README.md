@@ -51,15 +51,15 @@ Engin demirog ile birlikte java ve react kampından
 
 **Swagger and lombok**
 
-[Course 7 - nortwind](https://github.com/meryemtnkt/javaCamp/tree/main/nortwind)
+[Course 7 - nortwind](https://github.com/meryemtnkt/javaCamp/tree/main/nortwind/src/main/java/kodlamaio/nortwind/core/utilities/result)
 
 **Spring JPA/Hibernate**
 
-[Course 8 - nortwind](https://github.com/meryemtnkt/javaCamp/tree/main/nortwind)
+[Course 8 - nortwind](https://github.com/meryemtnkt/javaCamp/tree/main/nortwind/src/main/java/kodlamaio/nortwind/entities/concretes)
 
 **Spring AOP**
 
-[Course 9 - nortwind](https://github.com/meryemtnkt/javaCamp/tree/main/nortwind)
+[Course 9 - nortwind](https://github.com/meryemtnkt/javaCamp/tree/main/nortwind/src/main/java/kodlamaio/nortwind/core)
 
 **JAVASCRİPT**
 
@@ -68,3 +68,7 @@ Engin demirog ile birlikte java ve react kampından
 **React ve Redux** 
 
 [Course 11/React - Course 12/Redux](https://github.com/meryemtnkt/reactCamp)
+
+
+## Nortwind project ##
+[Project](https://github.com/meryemtnkt/javaCamp/tree/main/nortwind)
