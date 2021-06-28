@@ -15,6 +15,7 @@ import kodlamaio.nortwind.core.utilities.result.SuccessDataResult;
 import kodlamaio.nortwind.core.utilities.result.SuccessResult;
 import kodlamaio.nortwind.dataAccess.abstracts.ProductDao;
 import kodlamaio.nortwind.entities.concretes.Product;
+import kodlamaio.nortwind.entities.dtos.ProductWithCategoryDto;
 
 @Service
 public class ProductManager  implements ProductService{
@@ -90,13 +91,19 @@ public class ProductManager  implements ProductService{
 	@Override
 	public DataResult<List<Product>> gelAll(int pageNo, int pageSize) {
 		Pageable pageable = PageRequest.of(pageNo-1, pageSize);
-		return new  SuccessDataResult<List<Product>> ( this.productDao.findAll(pageable).getContent());
+		return new  SuccessDataResult<List<Product>> ( this.productDao.findAll(pageable).getContent(),"Data listelendi");
 	}
 
 	@Override
 	public DataResult<List<Product>> getAllSorted() {
 		Sort sort = Sort.by(Sort.Direction.DESC,"productName");
-		return  new  SuccessDataResult<List<Product>>(this.productDao.findAll(sort));
+		return  new  SuccessDataResult<List<Product>>(this.productDao.findAll(sort),"Başarılı");
+	}
+
+	@Override
+	public DataResult<List<ProductWithCategoryDto>> getProductWithCategoryDetails() {
+		return new SuccessDataResult<List<ProductWithCategoryDto>>
+		(this.productDao.getProductWithCategoryDetails(),"Data listelendi");
 	}
 
 }
