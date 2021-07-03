@@ -69,9 +69,9 @@ Engin demirog ile birlikte java ve react kampından
 
 [Course 11 - React](https://github.com/meryemtnkt/reactCamp)
 
-**Redux** 
+**React** 
 
-[ Course 12 - Redux](https://github.com/meryemtnkt/reactCamp)
+[ Course 12 - React 1](https://github.com/meryemtnkt/reactCamp)
 
 ## Nortwind project ##
 [Project](https://github.com/meryemtnkt/javaCamp/tree/main/nortwind)
